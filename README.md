@@ -1,3 +1,3 @@
 ## Link 
 
-url : https://mlejeunedev.github.io/MaximeLeJeune.github.io/
+url : https://mlejeunedev.github.io/mlejeune.github.io/
